@@ -560,11 +560,11 @@
                 <div class="footer1">
                     <div class="footer1-left">
                         <h1>
-                            Xí Nghiệp Quần áo Vân Phú
+                            Xí Nghiệp Quần áo Gia Cẩm
                         </h1>
                         <h3>
-                            <b>Xí Nghiệp Quần áo Vân Phú</b> là doanh nghiệp nhà nước trực thuộc Tổng Công ty TNHH được thành lập ngày 2/11/1997.<br>
-                            Địa chỉ: 202, phường Vân Phú, thành phố Việt Trì, Tỉnh Phú Thọ
+                            <b>Xí Nghiệp Quần áo Gia Cẩm</b> là doanh nghiệp nhà nước trực thuộc Tổng Công ty TNHH được thành lập ngày 2/11/1997.<br>
+                            Địa chỉ: 202, phường Gia Cẩm, thành phố Việt Trì, Tỉnh Phú Thọ
                         </h3>
                         <p>Hotline Nguyễn Nam Khánh: 0372555396</p>
                     </div>
