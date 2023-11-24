@@ -87,7 +87,7 @@
                     <div class="map">
                         <h1>Vị trí trên google map</h1>
                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d49500.70509263845!2d105.92405199964008!3d20.68273269535218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1677333248680!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                        <p>Địa chỉ: Cổng Trường Đại Học Hùng Vương, Thành phố Việt Trì, Tỉnh Phú Thọ</p>
+                        <p>Địa chỉ: 202, Phường Gia Cẩm, Thành phố Việt Trì, Tỉnh Phú Thọ</p>
                         <strong>Hotline: 0372555396</strong>
                         <br>
                         <strong>Email: Authentic@gmail.com</strong>
@@ -100,11 +100,11 @@
             <div class="footer1">
                 <div class="footer1-left">
                     <h1>
-                        Xí Nghiệp Quần áo Vân Phú
+                        Xí Nghiệp Quần áo Gia Cẩm
                     </h1>
                     <h3>
-                        <b>Xí Nghiệp Quần áo Vân Phú</b> là doanh nghiệp nhà nước trực thuộc Tổng Công ty TNHH được thành lập ngày 2/11/1997.<br>
-                        Địa chỉ: 202, phường Vân Phú, thành phố Việt Trì, Tỉnh Phú Thọ
+                        <b>Xí Nghiệp Quần áo Gia Cẩm</b> là doanh nghiệp nhà nước trực thuộc Tổng Công ty TNHH được thành lập ngày 2/11/1997.<br>
+                        Địa chỉ: 202, phường Gia Cẩm, thành phố Việt Trì, Tỉnh Phú Thọ
                     </h3>
                     <p>Hotline Nguyễn Nam Khánh: 0372555396</p>
                 </div>
